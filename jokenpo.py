@@ -36,12 +36,8 @@ def jogar():
                 if continuar == "n":
                     print("Voltando ao inicio")
                     break
-            escolher_modo = input("Você deseja trocar de modo ou sair" " " "digite s/n")
+            escolher_modo = input("Você deseja trocar de modo ou sair" " " "digite s/n: ")
             if escolher_modo == "n":
                 print("Encerrando jogo")
                 break    
-jogar()
-
-
-    
-
+jogar()   
