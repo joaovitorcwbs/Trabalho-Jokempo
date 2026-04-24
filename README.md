@@ -88,8 +88,9 @@ Exemplo de saída no terminal:
     CxC (Computador vs Computador)
     JxJ (Jogador vs Jogador)
 
-    Modo de Jogo: #aqui você digita o modo de jogo
     Modo de Jogo: JxC
+    
+Aqui você digita o modo que deseja jogar, no exemplo é o modo JxC
     
     Digite (1-Pedra) (2-Papel) (3-Tesoura): 1 #Digitei 1 por exemplo
     
