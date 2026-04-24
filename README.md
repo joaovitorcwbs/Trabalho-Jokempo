@@ -92,7 +92,7 @@ Exemplo de saída no terminal:
     
 Aqui você digita o modo que deseja jogar, no exemplo é o modo JxC
     
-    Digite (1-Pedra) (2-Papel) (3-Tesoura): 1 #Digitei 1 por exemplo
+    Digite (1-Pedra) (2-Papel) (3-Tesoura): 1
     
     Você: 1 | Computador: 1
     
@@ -111,8 +111,10 @@ Aqui você digita o modo que deseja jogar, no exemplo é o modo JxC
     #########################
     
     Continuar? (s/n): n 
-    
-    #Caso digite "s" o jogo ira continuar iniciando uma nova rodada, caso digite "n" o jogo irá fazer o seguinte passo:
+
+Caso o jogador digite "s" irá começar uma nova rodada no mesmo modo
+
+Se o jogador digitar "n" irá aparecer a seguinte pergunta:
     
     Deseja sair do jogo? (s/n): n 
     
