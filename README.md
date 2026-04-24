@@ -66,8 +66,11 @@ Fluxo do Programa
 3- O jogo inicia com rodadas contínuas
 
 4- A cada rodada:
+
     Jogadas são coletadas
+    
     Resultado é exibido
+    
     Placar é atualizado
     
 5- Usuário decide continuar ou encerrar
