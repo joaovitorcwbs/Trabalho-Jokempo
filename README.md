@@ -49,8 +49,11 @@ Execute o arquivo principal:
 python jokenpo.py
 
 Escolha o modo de jogo digitando:
+
 JxC
+
 CxC
+
 JxJ
 
 
