@@ -60,13 +60,18 @@ JxJ
 Fluxo do Programa
 -
 1- Exibe menu inicial
+
 2- Usuário escolhe modo
+
 3- O jogo inicia com rodadas contínuas
+
 4- A cada rodada:
     Jogadas são coletadas
     Resultado é exibido
     Placar é atualizado
+    
 5- Usuário decide continuar ou encerrar
+
 6- Ao sair, o programa finaliza
 
 
