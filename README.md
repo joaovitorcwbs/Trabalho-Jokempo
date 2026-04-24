@@ -10,9 +10,9 @@ Funcionalidades
 -
 O programa oferece três modos de jogo:
 
-Jogador vs Computador (JxC)
+(JxC) Jogador vs Computador 
 
-Computador vs Computador (CxC)
+(CxC) Computador vs Computador 
 
 (JxJ) Jogador vs Jogador
 
