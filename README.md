@@ -77,18 +77,30 @@ Digite (1-Pedra) (2-Papel) (3-Tesoura): 1 #Digitei 1 por exemplo
 Você: 1 | Computador: 1
 
 #########################
-        ROUND : 1          
+
+        ROUND : 1   
+        
 #########################
+
     VOCÊ       : 0
+    
     COMPUTADOR : 0
+    
     EMPATES    : 1
+    
 #########################
 
-Continuar? (s/n): n #Caso digite "s" o jogo ira continuar iniciando uma nova rodada, caso digite "n" o jogo irá fazer o seguinte passo:
+Continuar? (s/n): n 
 
-Deseja sair do jogo? (s/n): n #Se você digitar "s" ele irá retornar ao menu de escolha de modo, se digitar "s" ele fara o seguinte passo:
+#Caso digite "s" o jogo ira continuar iniciando uma nova rodada, caso digite "n" o jogo irá fazer o seguinte passo:
 
-Encerrando jogo... #E o jogo se encerrara, se quiser começar denovo terá que executar o comando python jokenpo.py denovo.
+Deseja sair do jogo? (s/n): n 
+
+#Se você digitar "s" ele irá retornar ao menu de escolha de modo, se digitar "s" ele fara o seguinte passo:
+
+Encerrando jogo... 
+
+#E o jogo se encerrara, se quiser começar denovo terá que executar o comando python jokenpo.py denovo.
 
 
 Estrutura do Código
@@ -104,5 +116,7 @@ O código utiliza:
 Autores
 -
 João Vitor Chaves Venâncio
+
 Victor Hugo dos Santos de Camargo
+
 Vinicius Roxadelli de Almeida
