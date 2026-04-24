@@ -14,7 +14,7 @@ Jogador vs Computador (JxC)
 
 Computador vs Computador (CxC)
 
-Jogador vs Jogador (JxJ)
+Jogador vs Jogador (J x J
 
 
 Cada modo executa partidas em loop, exibindo:
