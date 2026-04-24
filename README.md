@@ -16,7 +16,7 @@ O programa oferece três modos de jogo:
 
 (JxJ) Jogador vs Jogador
 
-#Cada modalidade de jogo executa várias rodadas em sequência, permitindo que o jogador continue jogando até decidir encerrar a partida.
+Cada modalidade de jogo executa várias rodadas em sequência.
 -
 
 Resultado da rodada
