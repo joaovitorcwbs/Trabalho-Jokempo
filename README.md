@@ -1,5 +1,5 @@
 Jokenpô em Python
--
+=
 Este projeto consiste na implementação do jogo clássico Pedra, Papel e Tesoura, desenvolvido em Python para a disciplina de Raciocínio Algorítmico.
 
 O sistema funciona via terminal e permite diferentes modos de jogo, com controle de rodadas e placar.
@@ -17,7 +17,7 @@ Computador vs Computador (CxC)
 Jogador vs Jogador (JxJ)
 
 Cada modo executa partidas em loop, exibindo:
-=
+-
 
 Resultado da rodada
 
