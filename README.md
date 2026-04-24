@@ -118,7 +118,9 @@ Se o jogador digitar "n" irá aparecer a seguinte pergunta:
     
     Deseja sair do jogo? (s/n): n 
     
-    #Se você digitar "s" ele irá retornar ao menu de escolha de modo, se digitar "s" ele fara o seguinte passo:
+Se você digitar "s" ele irá retornar ao menu de escolha de modo
+
+Se digitar "n" ele fara o seguinte passo:
     
     Encerrando jogo... 
 
