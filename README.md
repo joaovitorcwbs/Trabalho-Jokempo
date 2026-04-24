@@ -82,44 +82,44 @@ Exemplo de execução
 -
 Exemplo de saída no terminal:
 
-Qual modo você deseja jogar:
+    Qual modo você deseja jogar:
+    
+    JxC (Jogador vs Computador)
+    CxC (Computador vs Computador)
+    JxJ (Jogador vs Jogador)
 
-JxC (Jogador vs Computador)
-CxC (Computador vs Computador)
-JxJ (Jogador vs Jogador)
+    Modo de Jogo: #aqui você digita o modo de jogo
+    Modo de Jogo: JxC
+    
+    Digite (1-Pedra) (2-Papel) (3-Tesoura): 1 #Digitei 1 por exemplo
+    
+    Você: 1 | Computador: 1
+    
+    #########################
+    
+            ROUND : 1   
+            
+    #########################
 
-Modo de Jogo: #aqui você digita o modo de jogo
-Modo de Jogo: JxC
-
-Digite (1-Pedra) (2-Papel) (3-Tesoura): 1 #Digitei 1 por exemplo
-
-Você: 1 | Computador: 1
-
-#########################
-
-        ROUND : 1   
+        VOCÊ       : 0
         
-#########################
-
-    VOCÊ       : 0
+        COMPUTADOR : 0
+        
+        EMPATES    : 1
+        
+    #########################
     
-    COMPUTADOR : 0
+    Continuar? (s/n): n 
     
-    EMPATES    : 1
+    #Caso digite "s" o jogo ira continuar iniciando uma nova rodada, caso digite "n" o jogo irá fazer o seguinte passo:
     
-#########################
+    Deseja sair do jogo? (s/n): n 
+    
+    #Se você digitar "s" ele irá retornar ao menu de escolha de modo, se digitar "s" ele fara o seguinte passo:
+    
+    Encerrando jogo... 
 
-Continuar? (s/n): n 
-
-#Caso digite "s" o jogo ira continuar iniciando uma nova rodada, caso digite "n" o jogo irá fazer o seguinte passo:
-
-Deseja sair do jogo? (s/n): n 
-
-#Se você digitar "s" ele irá retornar ao menu de escolha de modo, se digitar "s" ele fara o seguinte passo:
-
-Encerrando jogo... 
-
-#E o jogo se encerrara, se quiser começar denovo terá que executar o comando python jokenpo.py denovo.
+    #E o jogo se encerrara, se quiser começar denovo terá que executar o comando python jokenpo.py denovo.
 
 
 Estrutura do Código
