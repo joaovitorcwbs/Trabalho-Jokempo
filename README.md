@@ -11,14 +11,19 @@ Funcionalidades
 O programa oferece três modos de jogo:
 
 Jogador vs Computador (JxC)
+
 Computador vs Computador (CxC)
+
 Jogador vs Jogador (JxJ)
 
 Cada modo executa partidas em loop, exibindo:
 
 Resultado da rodada
+
 Escolhas dos jogadores
+
 Placar atualizado
+
 Número da rodada
 
 
@@ -27,7 +32,9 @@ Regras do Jogo
 As regras seguem o padrão clássico:
 
 Pedra vence Tesoura
+
 Tesoura vence Papel
+
 Papel vence Pedra
 
 Em caso de escolhas iguais, ocorre empate.
