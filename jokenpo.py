@@ -49,6 +49,7 @@ while True:
                         "=====================")
                 print()
                 placar1 += 1
+                
             else:
                 print("=====================\n"
                         "O computador venceu!\n"
@@ -73,9 +74,10 @@ while True:
 
     elif escolha_jogo == "CxC":
         contador = 0
-        placar3 = 0
-        placar2 = 0
         placar1 = 0
+        placar2 = 0
+        placar3 = 0
+        
         while True:
             computador1 = random.randint(1, 3)
             computador2 = random.randint(1, 3)
@@ -107,8 +109,8 @@ while True:
             print("#########################\n"
                 f"        ROUND : {contador}          \n"
                     "#########################\n"
-                f"    COMPUTADOR 2 : {placar1}\n"
-                f"    COMPUTADOR 1 : {placar2}\n"
+                f"    COMPUTADOR 1 : {placar1}\n"
+                f"    COMPUTADOR 2 : {placar2}\n"
                 f"    EMPATES      : {placar3}\n"
                     "#########################")
             print()
@@ -130,7 +132,7 @@ while True:
             jogador1 = int(input(f"{name1} - Digite (1-Pedra) (2-Papel) (3-Tesoura): "))
             jogador2 = int(input(f"{name2} - Digite (1-Pedra) (2-Papel) (3-Tesoura): "))
             contador += 1
-            if jogador1 == jogador1 == jogador2 :
+            if jogador1 == jogador2 :
                 print("=====================\n"
                         "       Empate!\n"
                         "=====================")
