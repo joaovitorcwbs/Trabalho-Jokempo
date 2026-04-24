@@ -132,8 +132,11 @@ Estrutura do Código
 O código utiliza:
 
   while para repetição do jogo
+  
   if/elif/else para regras
+  
   random.randint() para jogadas automáticas
+  
   Variáveis para controle de placar e rodadas
 
 
