@@ -14,9 +14,9 @@ Jogador vs Computador (JxC)
 
 Computador vs Computador (CxC)
 
-Jogador vs Jogador (JxJ)
+(JxJ) Jogador vs Jogador
 
-Cada modo executa partidas em loop, exibindo:
+Cada modo de jogo executa várias rodadas em sequência, permitindo que o jogador continue jogando até decidir encerrar a partida.
 -
 
 Resultado da rodada
