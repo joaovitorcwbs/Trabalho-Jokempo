@@ -124,7 +124,7 @@ Se digitar "n" ele fara o seguinte passo:
     
     Encerrando jogo... 
 
-    #E o jogo se encerrara, se quiser começar denovo terá que executar o comando python jokenpo.py denovo.
+E o jogo se encerrara, se quiser começar denovo terá que executar o comando python jokenpo.py denovo.
 
 
 Estrutura do Código
